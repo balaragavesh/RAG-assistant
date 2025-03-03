@@ -24,7 +24,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) model** using *
 - **Seamless Integration:** Designed for embedding into existing software.
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.
 
 ---
 
